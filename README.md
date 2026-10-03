@@ -18,4 +18,4 @@ A pixel-accurate front-end clone of the **Amazon** desktop homepage, designed to
 - `/images` - Asset files, brand logos, and product placeholders
 
 ## 💡 Purpose
-Built as a front-end practice project to master complex UI layouts, component positioning, and styling accuracy based on a real-world e-commerce interface.
+Built as a front-end practice project to master block-level elements, component positioning using margins and padding, and styling accuracy based on a real-world e-commerce interface.
